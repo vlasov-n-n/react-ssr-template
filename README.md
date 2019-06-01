@@ -15,18 +15,18 @@ Runs the app in the development mode.<br>
 ## Project structure:
 ```sh
 ├── src
-| ├── client
-| | ├── actions
-| | ├── components
-| | ├── pages
-| | ├── reducers
-| | ├── App.js
-| | ├── clint.js
-| | ├── Routes.js
-| ├── helpers
-| | ├── createStore.js
-| | ├── renderer.js
-| ├── index.js
+│ ├── client
+│ │ ├── actions
+│ │ ├── components
+│ │ ├── pages
+│ │ ├── reducers
+│ │ ├── App.js
+│ │ ├── clint.js
+│ │ ├── Routes.js
+│ ├── helpers
+│ │ ├── createStore.js
+│ │ ├── renderer.js
+│ ├── index.js
 ```
 
 ## TODO
