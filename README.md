@@ -21,7 +21,7 @@ Runs the app in the development mode.<br>
 │ │ ├── pages
 │ │ ├── reducers
 │ │ ├── App.js
-│ │ ├── clint.js
+│ │ ├── client.js
 │ │ ├── Routes.js
 │ ├── helpers
 │ │ ├── createStore.js
