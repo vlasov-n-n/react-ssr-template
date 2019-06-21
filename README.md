@@ -36,4 +36,4 @@ Runs the app in the development mode.<br>
 ## TODO
 - [ ] Add TypeScript
 - [ ] Refactoring structure and default components
-- [ ] Change Redux-Thunk to Redux-Saga
+- [ ] Replace Redux-Thunk to Redux-Saga
